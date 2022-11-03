@@ -32,7 +32,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=dark&background=000000)](https://git.io/streak-stats)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=vision-friendly-dark" title="Firebase" alt="Firebase" width="250px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&show_icons=true&theme=vision-friendly-dark" width="250px" />
 <!--
 **deividbautista/deividbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
