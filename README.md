@@ -30,9 +30,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deividbautista&theme=tokyonight&title=Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=vision-friendly-dark" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=tokyonight&background=)](https://git.io/streak-stats)
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=tokyonight" />
  
  
 <!--
