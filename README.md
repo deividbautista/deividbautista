@@ -41,6 +41,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=tokyonight&background=)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=tokyonight" />
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deividbautista&bg_color=1F222E&color=bf91f3&line=70a5fd&point=FFFFFF&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 ###
 
