@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/ximposibl33.dxd">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/el_peneTrante">
+  <a href="https://codepen.io/Deivib-BauTista">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="debautistaocampo@gmail.com">
