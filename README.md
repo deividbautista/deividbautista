@@ -42,7 +42,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=deividbautista&theme=tokyonight&title=Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=tokyonight&background=" height="192px"/></a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=tokyonight"
+height="192px"/></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=deividbautista&bg_color=1F222E&color=bf91f3&line=70a5fd&point=FFFFFF&hide_border=true" /></a>
 
 ###
@@ -51,8 +52,5 @@
  
 <!--
 **deividbautista/deividbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile:3.
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=tokyonight"
-height="192px"/></a>
 ---
 
