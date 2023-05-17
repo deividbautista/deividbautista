@@ -15,7 +15,7 @@
   <a href="https://codepen.io/Deivib-BauTista">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mail to:debautistaocampo@gmail.com">
+  <a href="mailto:debautistaocampo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
