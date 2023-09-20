@@ -35,19 +35,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VISUALSTUDIO" alt="visualstudio" width="40" height="40"/>&nbsp;
 </div>
 
-
-
 ---
 
-### :fire: My Stats :
+### 🏆: My Trophies :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deividbautista&theme=tokyonight&title=Stars,Followers,Commit,PullRequest,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=deividbautista&theme=tokyonight&background=" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=tokyonight"
 height="192px"/></a>
 
+---
+
+### :fire: My Stats :
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deividbautista&bg_color=1F222E&color=ffffff&line=BA76FD&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
