@@ -9,8 +9,8 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.facebook.com/ximposibl33.dxd">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/deivid-edwuar-bautista-ocampo-20150328a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://codepen.io/Deivib-BauTista">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Twitter Badge"/>
