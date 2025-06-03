@@ -1,9 +1,5 @@
 ### Hi my name is Deivid 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=LA+ESPERANZA+ES+EL+PRIMER+PASO;INEVITABLE+EN+EL+CAMINO+A+LA;DECEPCIÓN!&font=Fira%20Code&left=true&width=380&duration=4000&pause=1000&color=bf91f3">
-</p>
-
 <div id="header" align="">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="315" heigt="600"/>
 </div>
