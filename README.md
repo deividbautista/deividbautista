@@ -1,4 +1,4 @@
-### Hi my name is Deivid 👋
+### Hi my name is Deivid 👋.
 
 <div id="header" align="">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="315" heigt="600"/>
