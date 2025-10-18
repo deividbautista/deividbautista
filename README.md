@@ -38,9 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="POTSMAN" alt="postman" width="40" height="40"/>&nbsp;
   
   
-
-  
 </div>
+
+---
+
+### :fire: My stats :
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividbautista&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="deividbautista" /></p>
 
 ---
 
