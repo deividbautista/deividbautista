@@ -1,4 +1,4 @@
-### Hi my name is Deivid Bautista 👋.
+### Hi my name is Deivid Bautista and i am developer fullStack 👋.
 
 <div id="header" align="">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="315" heigt="600"/>
